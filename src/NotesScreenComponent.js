@@ -72,29 +72,3 @@ const randomBackground = () => {
 }
 
 export default NotesScreenComponent;
-
-
-// ['rgb(1,2,3)', ]
-// Choose random element from list in js
-
-// Javascript object JSON - JavaScript Object Notation
-
-
-// {
-//     'name': 'Naman',
-//     'age': 'blah',
-//     'hobby': 'meh',
-//     'friends': [
-//         "A", "B", "C"
-//     ],
-//     'scbool' : {
-//         'name': 'BHS',
-//         'location': 'Rajasthan'
-//     },
-//     'fav_city': 'abc'
-
-// }
-
-
-
-// If we have to write JS in JSX, we need to surround JS code in {}
