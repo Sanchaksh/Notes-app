@@ -4,6 +4,7 @@ React-native application for all phones, operating systems. The project was deve
 
 
 FOLLOWED CRUD:
+
 -Create
 -Replace
 -Update
