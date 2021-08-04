@@ -7,4 +7,4 @@ FOLLOWED CRUD:
 -Create
 -Replace
 -Update
--Delete
+-Delete...
